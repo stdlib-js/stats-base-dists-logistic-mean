@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-23)
+## Unreleased (2024-12-24)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`4a70790`](https://github.com/stdlib-js/stdlib/commit/4a707903dfef7c2b56216000165706497d19a251) - **style:** add missing spaces _(by Philipp Burckhardt)_
 -   [`8553770`](https://github.com/stdlib-js/stdlib/commit/85537708442675d6bc1bf5dad5aaf252cecb82ac) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`113f340`](https://github.com/stdlib-js/stdlib/commit/113f3407b59c22f8b20a38147ef3470a8b30cd4a) - **feat:** add C implementation for `stats/base/dists/logistic/mean` [(#4028)](https://github.com/stdlib-js/stdlib/pull/4028) _(by Prashant Kumar Yadav, Philipp Burckhardt)_
 
