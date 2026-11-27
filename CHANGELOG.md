@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9dc9c23`](https://github.com/stdlib-js/stdlib/commit/9dc9c23db87dc01a155276015baa57e981c6c2bb) - **refactor:** use `constants/float64/nan` in `stats/base/dists/logistic/mean` [(#16846)](https://github.com/stdlib-js/stdlib/pull/16846) _(by Uday Gund)_
 -   [`433b730`](https://github.com/stdlib-js/stdlib/commit/433b7304619ad64bb65e65a11267730deff2dd62) - **test:** migrate `stats/base/dists/logistic/mean` to ULP-based assertions [(#15190)](https://github.com/stdlib-js/stdlib/pull/15190) _(by Divyanshu)_
 -   [`4a0c3be`](https://github.com/stdlib-js/stdlib/commit/4a0c3be4719f713b69a8ff6b66cc3b0573bf4444) - **docs:** update Markdown equation elements _(by stdlib-bot)_
 -   [`f25221d`](https://github.com/stdlib-js/stdlib/commit/f25221d5fcb5e84cb0ad4951db6f08f254c12d15) - **docs:** update Markdown equation elements _(by stdlib-bot)_
@@ -31,12 +32,13 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Divyanshu
 -   Philipp Burckhardt
 -   Shubham
+-   Uday Gund
 
 </section>
 
